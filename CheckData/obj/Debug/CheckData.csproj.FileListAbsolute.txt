@@ -1,0 +1,10 @@
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\bin\Debug\CheckData.exe
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\bin\Debug\CheckData.pdb
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\CheckData.Form1.resources
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\CheckData.Properties.Resources.resources
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\CheckData.csproj.GenerateResource.Cache
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\CheckData.exe
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData\CheckData\obj\Debug\CheckData.pdb
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData - 복사본\CheckData\obj\Debug\CheckData.exe
+C:\Users\suc\Documents\Visual Studio 2008\Projects\CheckData - 복사본\CheckData\obj\Debug\CheckData.pdb
